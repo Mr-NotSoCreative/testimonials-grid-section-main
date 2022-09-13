@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Mr-NotSoCreative/testimonials-grid-section-main)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://mr-notsocreative.github.io/testimonials-grid-section-main/)
 
 ## My process
 
